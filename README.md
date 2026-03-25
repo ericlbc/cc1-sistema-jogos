@@ -1,4 +1,4 @@
-# cc1-game-system
+# cc1-sistema-jogos
 
 <p align="justify">
 This is a system composed of three games:
