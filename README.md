@@ -10,7 +10,7 @@ This is a system composed of three games:
 </p>
 
 <p align="justify">
-**Question and Answer**:
+__Question and Answer__:
 </p>
 
 <p align="justify">
