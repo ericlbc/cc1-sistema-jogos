@@ -20,7 +20,7 @@ This process is repeated for 5 predefined questions.
 </p>
 
 <p align="justify">
-**Snake in the Box!**:
+<strong>Snake in the Box!</strong>:
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ In each round, the position of the button and the snake changes randomly, increa
 </p>
 
 <p align="justify">
-**Gousmas War**:
+<strong>Gousmas War</strong>:
 </p>
 
 <p align="justify">
