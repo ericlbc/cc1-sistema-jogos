@@ -42,7 +42,3 @@ In this game, players control creatures called Gousmas, which can split and incr
 Each player starts with two Gousmas, each with a fury level of 1. When one Gousma attacks another, it adds its entire
 fury level to the attacked Gousma. The game ends when a player no longer has any active Gousmas.
 </p>
-In this game, players control creatures called Gousmas, which can split and increase their fury when attacked. 
-Each player starts with two Gousmas, each with a fury level of 1. When one Gousma attacks another, it adds its entire
-fury level to the attacked Gousma.
-</p>
