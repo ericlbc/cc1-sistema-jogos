@@ -1,35 +1,44 @@
-# cc1-sistema-jogos
+# cc1-game-system
 
 <p align="justify">
-Trata-se de um sistema de três jogos:
+This is a system composed of three games:
 <ul>
-<li>Pergunta e Resposta;</li>
-<li>Cobra na Caixa!;</li>
-<li>Gousmas War;</li>
+<li>Question and Answer</li>
+<li>Snake in the Box!</li>
+<li>Gousmas War</li>
 </ul>
 </p>
 
 <p align="justify">
-Pergunta e Resposta:
+Question and Answer:
 </p>
 
 <p align="justify">
-Nesse jogo se apresenta uma pergunta com 4 alternativas e se solicita que o usuário escolha a resposta correta. Após a seleção
-o sistema indicará se a resposta está correta ou incorreta. Caso a resposta seja incorreta, será exibida a resposta correta.
-Esse processo é repetido durante 5 perguntas pré-definidas.
+In this game, a question with 4 alternatives is presented, and the user is asked to choose the correct answer. After the selection,
+the system will indicate whether the answer is correct or incorrect. If the answer is incorrect, the correct answer will be displayed.
+This process is repeated for 5 predefined questions.
 </p>
 
 <p align="justify">
-Cobra na Caixa!:
+Snake in the Box!:
 </p>
 
 <p align="justify">
-Nesse jogo a história se passa dentro de uma tumba egípcia onde dois exploradores ficaram presos. No centro da sala, há cinco caixas:
+In this game, the story takes place inside an Egyptian tomb where two explorers are trapped. In the center of the room, there are five boxes:
 <ul>
-<li>uma delas contém o botão para abrir a porta;</li>
-<li>outra esconde uma cobra mortal; e</li>
-<li>as outras três estão vazias.</li>
+<li>one of them contains the button to open the door;</li>
+<li>another hides a deadly snake; and</li>
+<li>the other three are empty.</li>
 </ul>
-A cada rodada, o local do botão e da cobra mudam de caixa de forma aleatória, aumentando o desafio e a imprevisibilidade do jogo.
+In each round, the position of the button and the snake changes randomly, increasing the challenge and unpredictability of the game.
 </p>
 
+<p align="justify">
+Gousmas War:
+</p>
+
+<p align="justify">
+In this game, players control creatures called Gousmas, which can split and increase their fury when attacked. 
+Each player starts with two Gousmas, each with a fury level of 1. When one Gousma attacks another, it adds its entire
+fury level to the attacked Gousma.
+</p>
