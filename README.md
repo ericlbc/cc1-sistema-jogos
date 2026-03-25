@@ -10,7 +10,7 @@ This is a system composed of three games:
 </p>
 
 <p align="justify">
-<b>Question and Answer</b>:
+**Question and Answer**:
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@ This process is repeated for 5 predefined questions.
 </p>
 
 <p align="justify">
-<b>Snake in the Box!</b>:
+**Snake in the Box!**:
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ In each round, the position of the button and the snake changes randomly, increa
 </p>
 
 <p align="justify">
-<b>Gousmas War</b>:
+**Gousmas War**:
 </p>
 
 <p align="justify">
