@@ -10,7 +10,7 @@ This is a system composed of three games:
 </p>
 
 <p align="justify">
-<strong>Question and Answer</strong>:
+<strong>Question and Answer:</strong>
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@ This process is repeated for 5 predefined questions.
 </p>
 
 <p align="justify">
-<strong>Snake in the Box!</strong>:
+<strong>Snake in the Box!:</strong>
 </p>
 
 <p align="justify">
@@ -34,10 +34,14 @@ In each round, the position of the button and the snake changes randomly, increa
 </p>
 
 <p align="justify">
-<strong>Gousmas War</strong>:
+<strong>Gousmas War:</strong>
 </p>
 
 <p align="justify">
+In this game, players control creatures called Gousmas, which can split and increase their fury when attacked. 
+Each player starts with two Gousmas, each with a fury level of 1. When one Gousma attacks another, it adds its entire
+fury level to the attacked Gousma. The game ends when a player no longer has any active Gousmas.
+</p>
 In this game, players control creatures called Gousmas, which can split and increase their fury when attacked. 
 Each player starts with two Gousmas, each with a fury level of 1. When one Gousma attacks another, it adds its entire
 fury level to the attacked Gousma.
