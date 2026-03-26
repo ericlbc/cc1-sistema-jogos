@@ -30,6 +30,8 @@ In this game, the story takes place inside an Egyptian tomb where two explorers 
 <li>another hides a deadly snake; and</li>
 <li>the other three are empty.</li>
 </ul>
+</p>
+<p align="justify">
 In each round, the position of the button and the snake changes randomly, increasing the challenge and unpredictability of the game.
 </p>
 
